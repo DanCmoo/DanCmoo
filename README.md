@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Daniel
+Backend Developer
 
-<!--
-**DanCmoo/DanCmoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:**   
+* 🔥 Currently learning JavaScript and Angular
+* 📧 How to reach me: decamachoo@udistrital.edu.co   
 
-Here are some ideas to get you started:
+### Connect with me:
+<a href="https://www.instagram.com/mugiwaaara_/" style="display: inline;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="display: inline;">
+</a>
+<a href="ttps://www.linkedin.com/in/dancmo/" style="display: inline;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="display: inline;">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+GitHub Stats:
