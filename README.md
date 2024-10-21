@@ -2,7 +2,7 @@
 Backend Developer
 
 **About me:**   
-* 🔥 Currently learning JavaScript and Angular
+* 🔥 Currently learning JavaScript, TypeScript and Angular
 * 📧 How to reach me: decamachoo@udistrital.edu.co
 ### Connect with me:
 <p>
