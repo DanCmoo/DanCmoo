@@ -3,7 +3,6 @@ Backend Developer
 
 **About me:**   
 * 📚I am currently pursuing a degree in Systems Engineering.
-* 🔥 Currently learning JavaScript, TypeScript and Angular.
 * 💻 Constantly improving my skills in Java and Spring Framework.
 * 📧 How to reach me: decamachoo@udistrital.edu.co
 ### Connect with me:
@@ -23,27 +22,6 @@ Backend Developer
      style="max-width: 100%;"/>
 </a>
 <a href="https://spring.io/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" style="max-width: 100%;"> </a>
-<a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-      style="max-width: 100%;"
-    />
-  </a>
   <a
     href="https://www.python.org"
     target="_blank"
