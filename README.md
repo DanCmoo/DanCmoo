@@ -34,6 +34,22 @@ Backend Developer
       height="40"
     />
   </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
+    alt="nestjs"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    alt="react"
+    width="40"
+    height="40"
+  />
+</a>
 
 ### GitHub Stats:   
 ![DanCmoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanCmoo&show_icons=true&theme=radical)
