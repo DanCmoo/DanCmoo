@@ -1,9 +1,8 @@
 # Hi, I'm Daniel
-Backend Developer
+**Software Developer & Backend Enthusiast**
 
-**About me:**   
-* 📚I am currently pursuing a degree in Systems Engineering.
-* 💻 Constantly improving my skills in Java and Spring Framework.
+## 🚀 About Me
+I'm a passionate **Software Developer** and **Backend Enthusiast** specializing in **Java** and **Spring Framework**. Currently pursuing my **Systems Engineering** degree at **Universidad Distrital Francisco José de Caldas** in Bogotá, Colombia.
 * 📧 How to reach me: decamachoo@udistrital.edu.co
 ### Connect with me:
 <p>
@@ -51,6 +50,6 @@ Backend Developer
   />
 </a>
 
-### GitHub Stats:   
-![DanCmoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanCmoo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanCmoo&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🔥 GitHub Stats
+![DanCmoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanCmoo&show_icons=true&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanCmoo&layout=donut&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
